@@ -1,2 +1,3 @@
-# home-manual-markdown
-Home Manual in Markdown
+# Home Manual In Markdown
+
+Markdown files to track everything in your home.
