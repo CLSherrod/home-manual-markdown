@@ -17,7 +17,7 @@ To start using Home Manual In Markdown, follow these steps:
 1. **Clone the Repository**: Clone the Home Manual In Markdown repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/home-manual-in-markdown.git
+    git clone https://github.com/clsherrod/home-manual-in-markdown.git
     ```
 
 2. **Explore the Files**: Take a look at the various Markdown files included in the repository to see how the home manual is organized.
